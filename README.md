@@ -1,6 +1,6 @@
 ## Expanse_tracker
 
-An application used to track your expanse.
+An web application used to track your expanse build using React.
 
 ## Project Status
 
